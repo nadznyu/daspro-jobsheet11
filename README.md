@@ -71,3 +71,10 @@
 4. Sudah ditambahkan.
 5. Tidak, panjang array tidak bisa diubah setelah array tersebut diinstansiasi, seperti contoh 
    pada soal, maka panjang array angka akan tetap 3.
+
+**Pertanyaan Percobaan 4**
+1. Bagaimana jika terdapat perubahan jumlah siswa dan jumlah mata kuliah? Modifikasi kode 
+   program SIAKAD untuk mengakomodasi jumlah siswa dan jumlah mata kuliah yang dinamis.
+
+**Jawaban Percobaan 4**
+1. Sudah commit di github.
