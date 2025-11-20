@@ -50,3 +50,24 @@
 4. Sudah commit di github.
 5. Sudah commit di github.
 
+**Pertanyaan Percobaan 3**
+1. Tambahkan kode program sebagai berikut
+    for (int i = 0; i < myNumbers.length; i++) {
+        System.out.println(Arrays.toString(myNumbers[i]));
+    }
+2. Apa fungsi dari Arrays.toString()?
+3. Apa nilai default untuk elemen pada array dengan tipe data int?
+4. Tambahkan kode program berikut
+    for (int i = 0; i < myNumbers.length; i++) {
+        System.out.println("Panjang baris ke-" + (i+1) + ": " + myNumbers[i].length);
+    }
+5. Array myNumbers memiliki length berbeda untuk setiap barisnya. Apakah panjang array 
+   dapat dimodifikasi setelah diinstansiasi?
+
+**Jawaban Percobaan 3**
+1. Sudah ditambahkan.
+2. Digunakan untuk mengubah isi array menjadi teks (string) agar mudah dibaca saat ditampilkan.
+3. Nilai defaultnya adalah 0.
+4. Sudah ditambahkan.
+5. Tidak, panjang array tidak bisa diubah setelah array tersebut diinstansiasi, seperti contoh 
+   pada soal, maka panjang array angka akan tetap 3.
