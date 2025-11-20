@@ -29,3 +29,24 @@
 11. indeks baris maksimalnya 3.
 12. indeks kolom maksimalnya 1.
 13. Untuk menghubungkan serta menampilkan kumpulan String dengan pemisah.
+
+**Pertanyaan Percobaan 2**
+1. Apakah pengisian elemen array dari scanner harus dilakukan secara berurutan mulai dari 
+   indeks ke-0? Jelaskan!
+2. Modifikasi kode program untuk memberikan opsi menu sebagai berikut:
+- Menu 1: Input data penonton
+- Menu 2: Tampilkan daftar penonton
+- Menu 3: Exit
+3. Modifikasi kode program untuk menghandle apabila nomor baris/kolom kursi yang tidak tersedia
+4. Pada menu 1, modifikasi kode program untuk memberikan warning apabila kursi yang dipilih 
+   sudah terisi oleh penonton lainnya lalu munculkan perintah untuk memasukkan baris dan kolom kembali
+5. Pada menu 2, jika kursi kosong, ganti null dengan ***
+
+**Jawaban Percobaan 2**
+1. Jika di implementasikan pada perulangan(loop), wajib menggunakan 0 karena perulangan itu 
+   pasti dijalankan secara berurutan.
+2. Sudah ditambahkan.
+3. Sudah commit di github.
+4. Sudah commit di github.
+5. Sudah commit di github.
+
